@@ -1,0 +1,19 @@
+{
+  "name": "goatpad",
+  "version": "0.0.1",
+  "homepage": "https://github.com/netbrain/goatpad",
+  "authors": [
+    "Kim Eik <kim@heldig.org>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "~2.0.4"
+  }
+}
